@@ -10,4 +10,4 @@ This repository provides support resources, FAQs, and contact information for En
 🔗 Official App Store Listing: [Insert App Store link when available]
 
 For any issues or feedback, visit our Support Page:
-➡️ https://yourusername.github.io/EngiCalc-Support/
+➡️ https://jwill1796.github.io/EngiCalc-Support/
