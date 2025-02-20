@@ -7,7 +7,4 @@ This repository provides support resources, FAQs, and contact information for En
 🛠 Troubleshooting – Tips for resolving issues
 📩 Contact Support – How to reach us for assistance
 🚀 Future Updates – Stay informed about upcoming features
-🔗 Official App Store Listing: [Insert App Store link when available]
-
-For any issues or feedback, visit our Support Page:
-➡️ https://jwill1796.github.io/EngiCalc-Support/
+🔗 Official App Store Listing: [Coming Soon]
