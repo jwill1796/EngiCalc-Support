@@ -2,7 +2,7 @@
 # EngiCalc Support
 This repository provides support resources, FAQs, and contact information for EngiCalc, the all-in-one construction engineering calculator.
 
-https://jwill1796.github.io/EngiCalc-Support/
+https://jwill1796.github.io
 
 📌 What You'll Find Here:
 📖 FAQs – Answers to common questions
