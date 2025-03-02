@@ -19,7 +19,7 @@ const App: React.FC = () => {
         width: "100vw",
       }}
     >
-      <Router>
+      <Router basename="/EngiCalc-Support">
         <NavBar />
         <Routes>
           <Route path="/" element={<Home />} />
