@@ -1,0 +1,85 @@
+body {
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background: url('../images/Dark.png') no-repeat center center fixed;
+    background-size: contain;
+    background-color: #0a0a0a;
+}
+nav {
+    background-color:rgba(0, 0, 0, 0.9);
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+nav ul li {
+    padding: 14px 20px;
+    flex: 1;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration:  none;
+    display : block;
+}
+
+nav ul li a:hover {
+    color: #4CE48E;
+}
+
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background: rgba(0, 0, 0, 0.8); /* Dark overlay for readability */
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
+h1 {
+    color: #4CE48E;
+    font-size: 28px;
+}
+h2 {
+    color: #7ce7ab;
+    font-size: 22px;
+    margin-top: 20px;
+}
+p {
+    color: white;
+    font-size: 18px;
+    line-height: 1.6;
+}
+a {
+    color: #4CE48E;
+    text-decoration: none;
+    font-weight: bold;
+}
+a:hover {
+    text-decoration: underline;
+}
+.back-link {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 15px;
+    background: #4CE48E;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.back-link:hover {
+    background: #388E3C;
+}
+.faq-section {
+    text-align: left;
+    margin-top: 30px;
+}
