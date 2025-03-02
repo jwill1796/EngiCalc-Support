@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/EngiCalc-Support/static/css/main.7c5f85f8.css",
-    "main.js": "/EngiCalc-Support/static/js/main.c0956c23.js",
-    "static/js/488.ed30ee6e.chunk.js": "/EngiCalc-Support/static/js/488.ed30ee6e.chunk.js",
-    "static/media/Dark.png": "/EngiCalc-Support/static/media/Dark.57f35abd205f47c99d18.png",
-    "index.html": "/EngiCalc-Support/index.html",
-    "main.7c5f85f8.css.map": "/EngiCalc-Support/static/css/main.7c5f85f8.css.map",
-    "main.c0956c23.js.map": "/EngiCalc-Support/static/js/main.c0956c23.js.map",
-    "488.ed30ee6e.chunk.js.map": "/EngiCalc-Support/static/js/488.ed30ee6e.chunk.js.map"
+    "main.css": "./static/css/main.7c5f85f8.css",
+    "main.js": "./static/js/main.47aaffb5.js",
+    "static/js/488.ed30ee6e.chunk.js": "./static/js/488.ed30ee6e.chunk.js",
+    "static/media/Dark.png": "./static/media/Dark.57f35abd205f47c99d18.png",
+    "index.html": "./index.html",
+    "main.7c5f85f8.css.map": "./static/css/main.7c5f85f8.css.map",
+    "main.47aaffb5.js.map": "./static/js/main.47aaffb5.js.map",
+    "488.ed30ee6e.chunk.js.map": "./static/js/488.ed30ee6e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7c5f85f8.css",
-    "static/js/main.c0956c23.js"
+    "static/js/main.47aaffb5.js"
   ]
 }
